@@ -120,9 +120,7 @@ If no row is updated, sufficient stock was not available and the order is reject
 }
 ```
 
-## Interview explanation
 
-> I built a small e-commerce backend using FastAPI and PostgreSQL. The system manages products, customers, inventory and orders. When an order is placed, the API checks and decreases inventory inside a database transaction. If enough stock is not available, the order is rejected. I used REST APIs, SQL queries, foreign keys, validation and exception handling.
 
 ## Future improvements
 
